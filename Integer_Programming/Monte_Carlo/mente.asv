@@ -1,0 +1,7 @@
+function [f,g] = mente(x);
+%MENTE Summary of this function goes here
+%   Detailed explanation goes here
+    f=x(1)^2+x(2
+
+end
+
