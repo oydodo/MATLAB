@@ -3,8 +3,8 @@
 # EXPLAINATION
 C-chapter
 
-E-example OR exercise if under a 'exercise' fold
+E-example OR exercise if under a 'exercise' folder
 
-f-function of corresponding example or exercise
+f-function of the corresponding example or exercise
 
 The numbers after the letters indicate the corresponding example or chapter 
